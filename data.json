@@ -1,0 +1,437 @@
+[
+{
+    "nome":"Fnatic",
+    "descrição": "Fundada em 2004, a Fnatic é uma das organizações mais antigas e vitoriosas dos e-sports. Com sede em Londres, ela se estabeleceu como uma potência global, vencendo o primeiro Campeonato Mundial de League of Legends (2011) e múltiplos Majors de Counter-Strike. Mais do que apenas uma equipe, a Fnatic é uma marca de lifestyle com um forte foco em performance e inovação, sendo pioneira no desenvolvimento de talentos e na profissionalização do cenário competitivo.", 
+    "link": "https://fnatic.com/",
+    "logo": "imagens/fnatic.png",
+    "liquipedia_link": "https://liquipedia.net/counterstrike/Fnatic",
+    "cor_destaque": "#FF5900",
+    "jogos_principais": ["League of Legends", "Valorant", "Counter-Strike"],
+    "jogadores_notaveis": [
+        {"nome": "Rekkles", "conquistas": ["4x Campeão Europeu (EU LCS/LEC)", "MVP da EU LCS (2014)"]},
+        {"nome": "JW", "conquistas": ["3x Campeão de Major de CS:GO (2013, 2015)", "MVP do DreamHack Winter 2013"]},
+        {"nome": "Boaster", "conquistas": ["Campeão do VCT LOCK//IN (2023)", "Campeão do VCT Masters Tokyo (2023)"]}
+    ]
+},
+
+{
+    "nome":"Evil Geniuses (EG)",
+    "descrição": "Com uma história que remonta a 1999, a Evil Geniuses é uma das marcas mais lendárias da América do Norte. A organização é famosa por suas conquistas históricas, como a vitória no The International 5 de Dota 2, que rendeu um prêmio milionário. Recentemente, a EG também se destacou ao vencer o VALORANT Champions 2023, provando sua capacidade de se reinventar e alcançar o topo em diferentes eras dos e-sports. O lema 'Live Evil' reflete sua reputação de excelência estratégica e competitividade implacável.", 
+    "link": "https://evilgeniuses.gg/",
+    "logo": "imagens/evil_geniuses.png",
+    "liquipedia_link": "https://liquipedia.net/dota2/Evil_Geniuses",
+    "cor_destaque": "#00AEEF",
+    "jogos_principais": ["Dota 2", "Valorant", "Counter-Strike"],
+    "jogadores_notaveis": [
+        {"nome": "SumaiL", "conquistas": ["Campeão do The International 5 (2015)", "O mais jovem a superar $1M em prêmios"]},
+        {"nome": "Potter", "conquistas": ["Campeã do VALORANT Champions como coach (2023)"]},
+        {"nome": "Demon1", "conquistas": ["Campeão e MVP do VALORANT Champions (2023)"]}
+    ]
+},
+{
+    "nome": "FaZe Clan",
+    "descrição": "O FaZe Clan transcendeu suas origens como um clã de 'trickshotting' no Call of Duty para se tornar um gigante do entretenimento e lifestyle. Mais do que apenas uma equipe competitiva, o FaZe é um fenômeno cultural com uma influência massiva nas redes sociais, música e moda. Embora mantenham equipes de ponta, como a vencedora do Major de CS:GO em Antuérpia 2022, seu foco principal está na criação de conteúdo e na construção de uma marca que ressoa profundamente com a cultura jovem, sendo uma das poucas organizações de e-sports listadas na bolsa de valores.",
+    "link": "https://fazeclan.com/",
+    "logo": "imagens/faze_clan.png",
+    "liquipedia_link": "https://liquipedia.net/counterstrike/FaZe_Clan",
+    "cor_destaque": "#E43D30",
+    "jogos_principais": ["Counter-Strike", "Call of Duty", "PUBG"],
+    "jogadores_notaveis": [
+        {"nome": "karrigan", "conquistas": ["Campeão do PGL Major Antwerp (2022)", "Intel Grand Slam (Temporada 4)"]},
+        {"nome": "aBeZy", "conquistas": ["Campeão Mundial de Call of Duty (2021)"]},
+        {"nome": "Simp", "conquistas": ["Campeão Mundial de Call of Duty (2021)", "MVP do Mundial de Call of Duty (2021)"]}
+    ]
+},
+{
+    "nome": "Team Liquid",
+    "descrição": "Nascida de um humilde site de notícias de StarCraft, a Team Liquid evoluiu para se tornar um pilar de profissionalismo e sucesso. Com uma das maiores e mais leais bases de fãs, a organização é conhecida por sua infraestrutura de ponta, incluindo centros de treinamento na Holanda e nos EUA. Além de conquistas como o título do The International 7 de Dota 2 e um Intel Grand Slam no CS:GO, a Liquid é aclamada pela produção de documentários e conteúdo de alta qualidade, mantendo um forte senso de comunidade que remonta às suas origens.",
+    "link": "https://www.teamliquid.com/",
+    "logo": "imagens/team_liquid.png",
+    "liquipedia_link": "https://liquipedia.net/dota2/Team_Liquid",
+    "cor_destaque": "#001F4F",
+    "jogos_principais": ["Dota 2", "League of Legends", "Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "Miracle-", "conquistas": ["Campeão do The International 7 (2017)"]},
+        {"nome": "NAF", "conquistas": ["Intel Grand Slam (Temporada 2)", "MVP da BLAST Pro Series Global Final (2019)"]},
+        {"nome": "Nivera", "conquistas": ["Campeão do VCT EMEA (2023)"]}
+    ]
+},
+{
+    "nome": "100 Thieves",
+    "descrição": "Criada por Matthew 'Nadeshot' Haag, ex-campeão de Call of Duty, a 100 Thieves se posiciona na interseção entre e-sports, entretenimento e moda. A organização é famosa por seus 'drops' de vestuário, que se esgotam em minutos, e por seu conteúdo de alta qualidade que destaca a vida de seus jogadores e criadores. Com uma forte identidade visual e uma abordagem que prioriza o storytelling, a 100 Thieves se consolidou como uma das marcas mais desejadas da nova geração, vencendo campeonatos de League of Legends e Valorant enquanto redefine o que significa ser uma organização de e-sports.",
+    "link": "https://100thieves.com/",
+    "logo": "imagens/100_thieves.png",
+    "liquipedia_link": "https://liquipedia.net/valorant/100_Thieves",
+    "cor_destaque": "#EF3340",
+    "jogos_principais": ["League of Legends", "Valorant", "Call of Duty"],
+    "jogadores_notaveis": [
+        {"nome": "Nadeshot", "conquistas": ["Fundador e CEO", "Atleta de Esports do Ano (2014)"]},
+        {"nome": "Ssumday", "conquistas": ["Campeão da LCS (2021)"]},
+        {"nome": "Asuna", "conquistas": ["Campeão do VCT First Strike NA (2020)"]}
+    ]
+},
+{
+    "nome": "Cloud9",
+    "descrição": "Desde sua ascensão meteórica em 2013, a Cloud9 se tornou uma das organizações mais queridas da América do Norte. Famosa por suas 'cinderella runs' e por desafiar gigantes internacionais, a C9 possui um histórico de sucesso em múltiplos títulos. Sua maior façanha inclui a conquista do ELEAGUE Major: Boston 2018 em Counter-Strike, um título inédito para uma equipe norte-americana. A marca é sinônimo de otimismo e de momentos memoráveis, mantendo-se como uma força competitiva constante em jogos como League of Legends e Valorant.",
+    "link": "https://cloud9.gg/",
+    "logo": "imagens/cloud9.png",
+    "liquipedia_link": "https://liquipedia.net/leagueoflegends/Cloud9",
+    "cor_destaque": "#0092DF",
+    "jogos_principais": ["League of Legends", "Counter-Strike", "Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "shroud", "conquistas": ["Campeão da ESL Pro League Season 4 (2016)"]},
+        {"nome": "Mang0", "conquistas": ["Considerado um dos 'Cinco Deuses' do Melee", "Múltiplos títulos de Major"]},
+        {"nome": "Fudge", "conquistas": ["Múltiplos títulos da LCS (League of Legends)"]}
+    ]
+},
+{
+    "nome": "G2 Esports",
+    "descrição": "Fundada pelo carismático ex-jogador Carlos 'ocelote' Rodríguez, a G2 Esports é conhecida como a 'Samurai Army' e se destaca por sua personalidade ousada e conteúdo de entretenimento. Com sede em Berlim, a G2 combina sucesso competitivo de elite, com títulos em League of Legends, CS:GO e Rocket League, com uma marca irreverente e memes constantes. Eles não apenas vencem, mas o fazem com estilo, cultivando uma das bases de fãs mais engajadas da Europa e sendo conhecidos por sua presença dominante nas redes sociais.",
+    "link": "https://g2esports.com/",
+    "logo": "imagens/g2_esports.png",
+    "liquipedia_link": "https://liquipedia.net/leagueoflegends/G2_Esports",
+    "cor_destaque": "#EE3032",
+    "jogos_principais": ["League of Legends", "Counter-Strike", "Rocket League"],
+    "jogadores_notaveis": [
+        {"nome": "Caps", "conquistas": ["Múltiplos títulos da LEC (League of Legends)", "Campeão do MSI (2019)"]},
+        {"nome": "NiKo", "conquistas": ["Campeão da IEM Katowice (2023)", "Campeão da IEM Cologne (2023)"]},
+        {"nome": "m0NESY", "conquistas": ["Campeão da IEM Katowice (2023)", "Campeão da IEM Cologne (2023)"]}
+    ]
+},
+{
+    "nome": "LOUD",
+    "descrição": "A LOUD é um verdadeiro fenômeno que explodiu no cenário brasileiro e ganhou o mundo. Nascida em 2019 com foco em Free Fire e criação de conteúdo, a organização se tornou uma potência de engajamento, quebrando recordes no YouTube e redes sociais. Com o lema 'Faz o L', a LOUD expandiu seu sucesso para o Valorant, onde conquistou o título mundial de 2022 (VALORANT Champions), consolidando-se não apenas como uma gigante do entretenimento, mas também como uma força competitiva de elite que representa a paixão da comunidade brasileira.",
+    "link": "https://loud.gg/",
+    "logo": "imagens/loud.png",
+    "liquipedia_link": "https://liquipedia.net/valorant/LOUD",
+    "cor_destaque": "#15FF8D",
+    "jogos_principais": ["Valorant", "Free Fire", "League of Legends"],
+    "jogadores_notaveis": [
+        {"nome": "aspas", "conquistas": ["Campeão do VALORANT Champions (2022)"]},
+        {"nome": "Less", "conquistas": ["Campeão do VALORANT Champions (2022)"]},
+        {"nome": "Sacy", "conquistas": ["Campeão do VALORANT Champions (2022)"]}
+    ]
+},
+{
+    "nome": "FURIA",
+    "descrição": "A FURIA é a personificação da paixão e da agressividade brasileira nos e-sports. Fundada em 2017, a organização rapidamente se tornou uma potência internacional, impulsionada por sua equipe de Counter-Strike e seu estilo de jogo único e ultra-agressivo. Com a pantera como símbolo e uma base de fãs fervorosa, a FURIA expandiu sua presença para múltiplos jogos e estabeleceu uma infraestrutura robusta no Brasil e nos EUA, representando a garra e o talento do cenário nacional no palco mundial e sendo um exemplo de marca forte e bem-sucedida.",
+    "link": "https://furia.gg/",
+    "logo": "imagens/furia.png",
+    "liquipedia_link": "https://liquipedia.net/counterstrike/FURIA_Esports",
+    "cor_destaque": "#333333",
+    "jogos_principais": ["Counter-Strike", "Rocket League", "Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "arT", "conquistas": ["Conhecido por seu estilo de jogo agressivo e inovador no CS:GO"]},
+        {"nome": "KSCERATO", "conquistas": ["Consistentemente ranqueado entre os melhores jogadores de CS:GO do mundo"]},
+        {"nome": "FalleN", "conquistas": ["2x Campeão de Major de CS:GO (com outra equipe)", "Lenda do CS brasileiro"]}
+    ]
+},
+{
+    "nome": "Team Vitality",
+    "descrição": "Sediada na França, a Team Vitality é uma das principais potências europeias, conhecida por sua excelência em Counter-Strike e Rocket League. Com um forte foco em performance e uma identidade visual marcante simbolizada pela abelha, a Vitality construiu uma base de fãs global, a 'Beehive'. A organização alcançou o auge ao vencer o BLAST.tv Paris Major 2023, o último Major de CS:GO, em casa, solidificando seu legado como uma das equipes mais dominantes da Europa.",
+    "link": "https://vitality.gg/",
+    "logo": "imagens/team_vitality.png",
+    "liquipedia_link": "https://liquipedia.net/counterstrike/Team_Vitality",
+    "cor_destaque": "#FEE100",
+    "jogos_principais": ["Counter-Strike", "Rocket League", "League of Legends"],
+    "jogadores_notaveis": [
+        {"nome": "ZywOo", "conquistas": ["3x eleito melhor jogador de CS:GO do mundo", "MVP do BLAST.tv Paris Major 2023"]},
+        {"nome": "apEX", "conquistas": ["Campeão do BLAST.tv Paris Major 2023 (como IGL)"]},
+        {"nome": "Kaydop", "conquistas": ["3x Campeão Mundial de Rocket League"]}
+    ]
+},
+{
+    "nome": "Natus Vincere (Na'Vi)",
+    "descrição": "Natus Vincere, que significa 'nascido para vencer' em latim, é uma organização ucraniana lendária, especialmente no cenário de Counter-Strike e Dota 2. A Na'Vi é famosa por abrigar alguns dos maiores talentos da história, como Oleksandr 's1mple' Kostyliev, considerado por muitos o melhor jogador de CS:GO de todos os tempos. Com uma história rica que inclui a vitória no primeiro The International de Dota 2, a Na'Vi possui uma legião de fãs leais e é um símbolo de resiliência e excelência na região CIS.",
+    "link": "https://navi.gg/",
+    "logo": "imagens/natus_vincere.png",
+    "liquipedia_link": "https://liquipedia.net/counterstrike/Natus_Vincere",
+    "cor_destaque": "#FFEE00",
+    "jogos_principais": ["Counter-Strike", "Dota 2", "Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "s1mple", "conquistas": ["Considerado o melhor jogador de CS:GO da história", "Campeão do PGL Major Stockholm 2021"]},
+        {"nome": "b1t", "conquistas": ["Campeão do PGL Major Stockholm 2021"]},
+        {"nome": "Dendi", "conquistas": ["Campeão do primeiro The International (2011)"]}
+    ]
+},
+{
+    "nome": "T1",
+    "descrição": "Originalmente conhecida como SK Telecom T1, esta organização sul-coreana é sinônimo de dinastia em League of Legends. Liderada pelo incontestável melhor jogador de todos os tempos, Lee 'Faker' Sang-hyeok, a T1 conquistou quatro Campeonatos Mundiais, um recorde absoluto. A equipe estabeleceu um padrão de excelência e domínio que poucas equipes no mundo conseguiram alcançar, tornando-se uma marca globalmente reconhecida e um símbolo da supremacia coreana nos e-sports.",
+    "link": "https://t1.gg/",
+    "logo": "imagens/t1.png",
+    "liquipedia_link": "https://liquipedia.net/leagueoflegends/T1",
+    "cor_destaque": "#E2012D",
+    "jogos_principais": ["League of Legends", "Valorant", "Dota 2"],
+    "jogadores_notaveis": [
+        {"nome": "Faker", "conquistas": ["4x Campeão Mundial de League of Legends (2013, 2015, 2016, 2023, 2024, 2025)", "Múltiplos títulos da LCK"]},
+        {"nome": "Gumayusi", "conquistas": ["Campeão Mundial de League of Legends (2023, 2024, 2025)", "MVP WORLDS 2025"]},
+        {"nome": "Keria", "conquistas": ["Campeão Mundial de League of Legends (2023, 2024, 2025)", "MVP da LCK (2022)"]}
+    ]
+},
+{
+    "nome": "Sentinels",
+    "descrição": "A Sentinels é uma organização norte-americana que rapidamente se tornou uma força dominante, especialmente no cenário de Valorant. Conhecida por sua abordagem de contratar grandes personalidades e jogadores de alto calibre como Tyson 'TenZ' Ngo, a Sentinels foca em criar 'superequipes' que não apenas vencem, mas também geram enorme engajamento. Eles foram os primeiros campeões internacionais de Valorant, vencendo o VCT Masters Reykjavík 2021, e continuam sendo uma das marcas mais populares e seguidas do cenário.",
+    "link": "https://sentinels.gg/",
+    "logo": "imagens/sentinels.png",
+    "liquipedia_link": "https://liquipedia.net/valorant/Sentinels",
+    "cor_destaque": "#CE0037",
+    "jogos_principais": ["Valorant", "Apex Legends", "Halo"],
+    "jogadores_notaveis": [
+        {"nome": "TenZ", "conquistas": ["Campeão do VCT Masters Reykjavík (2021)"]},
+        {"nome": "Zellsis", "conquistas": ["Campeão do VCT Americas Kickoff (2024)"]},
+        {"nome": "Bugha", "conquistas": ["Campeão Mundial de Fortnite (2019)"]}
+    ]
+},
+{
+    "nome": "OpTic Gaming",
+    "descrição": "Conhecida como a 'Green Wall', a OpTic Gaming é uma das organizações mais icônicas e com uma das maiores bases de fãs na história dos e-sports, especialmente em Call of Duty. Fundada em 2006, a OpTic construiu um legado baseado em domínio competitivo e criação de conteúdo pioneiro, tornando-se uma marca que representa paixão e lealdade. A força de sua comunidade é lendária, apoiando a equipe incondicionalmente em todos os jogos em que competem, como Halo e Valorant.",
+    "link": "https://opticgaming.com/",
+    "logo": "imagens/optic_gaming.png",
+    "liquipedia_link": "https://liquipedia.net/cod/OpTic_Gaming",
+    "cor_destaque": "#90EE90",
+    "jogos_principais": ["Call of Duty", "Halo", "Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "Scump", "conquistas": ["Campeão Mundial de Call of Duty (2017)", "Considerado o 'Rei' do CoD"]},
+        {"nome": "FormaL", "conquistas": ["Campeão Mundial de Call of Duty (2017)", "MVP do Mundial de Call of Duty (2017)"]},
+        {"nome": "Dashy", "conquistas": ["Múltiplos títulos de Major de Call of Duty"]}
+    ]
+},
+{
+    "nome": "MIBR",
+    "descrição": "O MIBR (Made in Brazil) é uma marca lendária que carrega a história do e-sport brasileiro. A equipe original de Counter-Strike 1.6 dominou o mundo no início dos anos 2000. Após um hiato, a tag voltou à ativa e continua sendo um símbolo de orgulho nacional, representando a tradição e a paixão do Brasil no cenário competitivo global, com equipes fortes em CS:GO, Valorant e Rainbow Six.",
+    "link": "https://mibr.gg/",
+    "logo": "imagens/mibr.png",
+    "liquipedia_link": "https://liquipedia.net/counterstrike/MIBR",
+    "cor_destaque": "#0F9D58",
+    "jogos_principais": ["Counter-Strike", "Valorant", "Rainbow Six"],
+    "jogadores_notaveis": [
+        {"nome": "cogu", "conquistas": ["Campeão Mundial da ESWC (2006) com a equipe original"]},
+        {"nome": "saffee", "conquistas": ["Peça chave na reestruturação da equipe de CS:GO"]},
+        {"nome": "jzz", "conquistas": ["Campeã do VCT Game Changers Brazil (2023)"]}
+    ]
+},
+{
+    "nome": "paiN Gaming",
+    "descrição": "Fundada em 2010, a paiN Gaming é uma das organizações mais antigas e tradicionais do Brasil. Com uma das maiores e mais apaixonadas torcidas, os 'Tradicionais', a paiN é uma potência em League of Legends, tendo vencido múltiplos títulos do CBLOL. A organização é um pilar do e-sport nacional, com forte presença em diversos outros jogos e uma conexão profunda com sua enorme base de fãs.",
+    "link": "https://www.paingaming.gg/",
+    "logo": "imagens/pain_gaming.png",
+    "liquipedia_link": "https://liquipedia.net/leagueoflegends/PaiN_Gaming",
+    "cor_destaque": "#D82B2B",
+    "jogos_principais": ["League of Legends", "Counter-Strike", "Free Fire"],
+    "jogadores_notaveis": [
+        {"nome": "brTT", "conquistas": ["6x Campeão do CBLOL (vários com a paiN)"]},
+        {"nome": "Kami", "conquistas": ["2x Campeão do CBLOL", "Lenda do cenário brasileiro de LoL"]},
+        {"nome": "biguzera", "conquistas": ["Múltiplos títulos de CS:GO no cenário brasileiro"]}
+    ]
+},
+{
+    "nome": "INTZ",
+    "descrição": "Conhecidos como 'Os Intrépidos', o INTZ é uma das organizações mais vitoriosas do Brasil, especialmente no cenário de League of Legends, onde conquistaram o famoso 'Exodia' (cinco títulos do CBLOL). Famosos por sua capacidade de revelar novos talentos e por campanhas históricas, como a vitória sobre a EDG no Mundial de 2016, o INTZ é uma força constante no topo do e-sport brasileiro, simbolizando estratégia e inovação.",
+    "link": "https://www.intz.com.br/",
+    "logo": "imagens/intz.png",
+    "liquipedia_link": "https://liquipedia.net/leagueoflegends/INTZ",
+    "cor_destaque": "#000000",
+    "jogos_principais": ["League of Legends", "Rainbow Six", "Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "Revolta", "conquistas": ["4x Campeão do CBLOL (com o INTZ)", "MVP de múltiplas finais"]},
+        {"nome": "micaO", "conquistas": ["5x Campeão do CBLOL (com o INTZ)"]},
+        {"nome": "Yang", "conquistas": ["4x Campeão do CBLOL (com o INTZ)"]}
+    ]
+},
+{
+    "nome": "TSM",
+    "descrição": "Fundada como Team SoloMid, a TSM é uma das marcas mais reconhecidas globalmente, com uma história de domínio no cenário norte-americano de League of Legends, onde popularizou o cântico 'TSM! TSM!'. Embora tenha se reestruturado e saído do LoL norte-americano, a TSM continua sendo uma gigante nos e-sports, com equipes de ponta em jogos como Apex Legends e Dota 2, e uma base de fãs massiva e leal.",
+    "link": "https://tsm.gg/",
+    "logo": "imagens/tsm.png",
+    "liquipedia_link": "https://liquipedia.net/apexlegends/TSM",
+    "cor_destaque": "#000000",
+    "jogos_principais": ["Apex Legends", "Dota 2", "Super Smash Bros."],
+    "jogadores_notaveis": [
+        {"nome": "Bjergsen", "conquistas": ["6x Campeão da LCS (League of Legends)", "4x MVP da LCS"]},
+        {"nome": "ImperialHal", "conquistas": ["3x Campeão do Apex Legends Global Series"]},
+        {"nome": "Leffen", "conquistas": ["Considerado um dos 'Cinco Deuses' do Melee", "Campeão do EVO (2018)"]}
+    ]
+},
+{
+    "nome": "Gen.G Esports",
+    "descrição": "A Gen.G (Generation Gaming) é uma organização global que conecta os Estados Unidos e a Ásia, com sedes em Seul, Xangai e Los Angeles. Com um foco em construir uma comunidade global, a Gen.G possui equipes campeãs em múltiplos títulos, incluindo League of Legends (LCK) e PUBG. Eles são conhecidos por seu profissionalismo, por programas de desenvolvimento de talentos e por promover a inclusão no cenário de e-sports.",
+    "link": "https://geng.gg/",
+    "logo": "imagens/geng_esports.png",
+    "liquipedia_link": "https://liquipedia.net/leagueoflegends/Gen.G",
+    "cor_destaque": "#B89F5D",
+    "jogos_principais": ["League of Legends", "PUBG", "Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "Chovy", "conquistas": ["3x Campeão da LCK,2x Campeão do MSI (2024 e 2025)(League of Legends)"]},
+        {"nome": "Pio", "conquistas": ["Campeão Mundial de PUBG (2019)"]},
+        {"nome": "Meteor", "conquistas": ["Campeão do VCT Pacific Kickoff (2024)"]}
+    ]
+},
+{
+    "nome": "NRG Esports",
+    "descrição": "A NRG é uma organização de e-sports e entretenimento sediada na Califórnia, conhecida por sua forte presença em jogos de console e PC. Com proprietários de alto perfil como Shaquille O'Neal, a NRG se destaca por seu conteúdo de alta qualidade e por equipes de elite em Rocket League, onde são multicampeões mundiais, e em Valorant, mantendo-se sempre no topo da competitividade norte-americana.",
+    "link": "https://www.nrg.gg/",
+    "logo": "imagens/nrg_esports.png",
+    "liquipedia_link": "https://liquipedia.net/rocketleague/NRG",
+    "cor_destaque": "#000000",
+    "jogos_principais": ["Rocket League", "Valorant", "Apex Legends"],
+    "jogadores_notaveis": [
+        {"nome": "GarrettG", "conquistas": ["Campeão Mundial de Rocket League (2019)"]},
+        {"nome": "Ardiis", "conquistas": ["Campeão do VCT Masters Copenhagen (2022)"]},
+        {"nome": "Sweetdreams", "conquistas": ["Campeão do Apex Legends Global Series (2021)"]}
+    ]
+},
+{
+    "nome": "Team Secret",
+    "descrição": "Formada por jogadores para jogadores, a Team Secret é uma potência europeia, lendária no cenário de Dota 2 sob a liderança do icônico capitão Clement 'Puppey' Ivanov. Conhecida por sua capacidade de montar elencos estelares e por sua consistência no topo, a Secret expandiu seu sucesso para outros jogos como Rainbow Six Siege e Valorant, mantendo sempre um alto nível de competitividade e uma aura de mistério em torno de suas operações.",
+    "link": "https://teamsecret.gg/",
+    "logo": "imagens/team_secret.png",
+    "liquipedia_link": "https://liquipedia.net/dota2/Team_Secret",
+    "cor_destaque": "#2a2a2a",
+    "jogos_principais": ["Dota 2", "Rainbow Six", "Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "Puppey", "conquistas": ["Campeão do The International (2011)", "Presente em todos os TIs"]},
+        {"nome": "Nisha", "conquistas": ["Múltiplos títulos de Major de Dota 2"]},
+        {"nome": "SlebbeN", "conquistas": ["Campeão da Pro League Season 10 (Rainbow Six)"]}
+    ]
+},
+{
+    "nome": "Virtus.pro",
+    "descrição": "A Virtus.pro é uma das organizações mais famosas da região CIS (Comunidade dos Estados Independentes), com uma história de domínio em Counter-Strike e Dota 2. Simbolizada pelo urso polar, a VP é conhecida por seu estilo de jogo agressivo, o 'VP Bear-rush', e por ter abrigado algumas das formações mais lendárias do e-sport, que dominaram temporadas inteiras em seus respectivos jogos.",
+    "link": "https://virtus.pro/",
+    "logo": "imagens/virtus_pro.png",
+    "liquipedia_link": "https://liquipedia.net/counterstrike/Virtus.pro",
+    "cor_destaque": "#F58220",
+    "jogos_principais": ["Counter-Strike", "Dota 2", "Warface"],
+    "jogadores_notaveis": [
+        {"nome": "Jame", "conquistas": ["Campeão do IEM Rio Major (2022)", "MVP do IEM Rio Major (2022)"]},
+        {"nome": "gpk", "conquistas": ["Consistentemente um dos melhores midlaners de Dota 2"]},
+        {"nome": "pashaBiceps", "conquistas": ["Campeão de Major de CS:GO (2014)"]}
+    ]
+},
+{
+    "nome": "Astralis",
+    "descrição": "A Astralis é uma organização dinamarquesa que se tornou sinônimo de uma era de domínio no Counter-Strike. Com uma abordagem metódica, científica e focada no bem-estar dos jogadores, eles revolucionaram a forma como as equipes treinam e competem. Essa filosofia os levou a conquistar quatro Majors de CS:GO, incluindo três de forma consecutiva, estabelecendo uma das maiores e mais dominantes dinastias da história do jogo.",
+    "link": "https://www.astralis.gg/",
+    "logo": "imagens/astralis.png",
+    "liquipedia_link": "https://liquipedia.net/counterstrike/Astralis",
+    "cor_destaque": "#EF3742",
+    "jogos_principais": ["Counter-Strike", "League of Legends", "FIFA"],
+    "jogadores_notaveis": [
+        {"nome": "dev1ce", "conquistas": ["4x Campeão de Major de CS:GO", "2x MVP de Major"]},
+        {"nome": "gla1ve", "conquistas": ["4x Campeão de Major de CS:GO (como IGL)"]},
+        {"nome": "Xyp9x", "conquistas": ["4x Campeão de Major de CS:GO", "Conhecido como 'Clutch Minister'"]}
+    ]
+},
+{
+    "nome": "Ninjas in Pyjamas",
+    "descrição": "Fundada em 2000, a Ninjas in Pyjamas (NiP) é uma das organizações mais lendárias da Suécia. Famosa pela sua sequência histórica de 87 vitórias consecutivas em mapas no início do CS:GO, um recorde que provavelmente nunca será quebrado, a NiP continua sendo uma marca icônica. Com uma base de fãs global e uma forte presença em múltiplos e-sports, eles carregam um legado de magia e momentos inesquecíveis.",
+    "link": "https://nip.gl/",
+    "logo": "imagens/ninjas_in_pyjamas.png",
+    "liquipedia_link": "https://liquipedia.net/counterstrike/Ninjas_in_Pyjamas",
+    "cor_destaque": "#B39A68",
+    "jogos_principais": ["Counter-Strike", "Rainbow Six", "Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "GeT_RiGhT", "conquistas": ["Campeão de Major de CS:GO (2014)", "Considerado um dos maiores da história do CS"]},
+        {"nome": "f0rest", "conquistas": ["Campeão de Major de CS:GO (2014)", "Lenda do Counter-Strike 1.6 e GO"]},
+        {"nome": "REZ", "conquistas": ["Peça fundamental da equipe moderna de CS:GO da NiP"]}
+    ]
+},
+{
+    "nome": "KOI",
+    "descrição": "Fundada pelo popular streamer Ibai Llanos e pelo ex-jogador de futebol Gerard Piqué, a KOI é uma organização espanhola que rapidamente se tornou um fenômeno de popularidade. Com um foco massivo na criação de conteúdo e engajamento com a comunidade, a KOI mobiliza uma das maiores bases de fãs da Europa, competindo em alto nível em jogos como League of Legends e Valorant e redefinindo a relação entre uma equipe e seus torcedores.",
+    "link": "https://www.koisquad.com/",
+    "logo": "imagens/koi.png",
+    "liquipedia_link": "https://liquipedia.net/valorant/KOI",
+    "cor_destaque": "#A800F0",
+    "jogos_principais": ["League of Legends", "Valorant", "FIFA"],
+    "jogadores_notaveis": [
+        {"nome": "Ibai Llanos", "conquistas": ["Fundador e principal personalidade da marca"]},
+        {"nome": "Larssen", "conquistas": ["Mid laner da equipe de League of Legends"]},
+        {"nome": "Sheydos", "conquistas": ["Campeão do VCT Masters Berlin (2021) com outra equipe"]}
+    ]
+},
+{
+    "nome": "Paper Rex",
+    "descrição": "A Paper Rex é uma organização do Sudeste Asiático que ganhou fama mundial por seu estilo de jogo caótico e ultra-agressivo no Valorant. Com o lema 'W Gaming', que prioriza a agressividade e a diversão, eles se destacam pela criatividade e pela personalidade carismática de seus jogadores. A equipe conquistou fãs em todo o mundo e colocou a região APAC no mapa do e-sport global de forma espetacular.",
+    "link": "https://www.pprx.team/",
+    "logo": "imagens/paper_rex.png",
+    "liquipedia_link": "https://liquipedia.net/valorant/Paper_Rex",
+    "cor_destaque": "#F4A03D",
+    "jogos_principais": ["Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "f0rsakeN", "conquistas": ["Vice-campeão do VCT Masters Copenhagen (2022)"]},
+        {"nome": "Jinggg", "conquistas": ["Vice-campeão do VCT Masters Copenhagen (2022)"]},
+        {"nome": "something", "conquistas": ["Campeão do VCT Pacific League (2023)"]}
+    ]
+},
+{
+    "nome": "DRX",
+    "descrição": "A DRX é uma organização sul-coreana que protagonizou uma das histórias mais incríveis dos e-sports. Sua equipe de League of Legends, vinda da fase de entrada e completamente desacreditada, realizou uma 'cinderella run' milagrosa para vencer o Campeonato Mundial de 2022. A jornada, liderada pelo veterano 'Deft', inspirou milhões de fãs e provou que a perseverança pode superar qualquer obstáculo no cenário competitivo.",
+    "link": "https://drx.gg/",
+    "logo": "imagens/drx.png",
+    "liquipedia_link": "https://liquipedia.net/leagueoflegends/DRX",
+    "cor_destaque": "#2D62FF",
+    "jogos_principais": ["League of Legends", "Valorant", "Tekken"],
+    "jogadores_notaveis": [
+        {"nome": "Deft", "conquistas": ["Campeão Mundial de League of Legends (2022)"]},
+        {"nome": "Zeka", "conquistas": ["Campeão Mundial de League of Legends (2022)"]},
+        {"nome": "Knee", "conquistas": ["Lenda do Tekken, múltiplos títulos de EVO"]}
+    ]
+},
+{
+    "nome": "EDward Gaming (EDG)",
+    "descrição": "A EDward Gaming é uma das organizações mais consistentes e vitoriosas da China. Com uma longa história de domínio na LPL (liga chinesa de League of Legends), a EDG alcançou o auge ao superar as expectativas e vencer o Campeonato Mundial de 2021. Este título solidificou seu status como uma potência global e uma das equipes mais respeitadas do mundo, conhecida por sua disciplina tática e resiliência.",
+    "link": "https://www.edg.cn/",
+    "logo": "imagens/edward_gaming.png",
+    "liquipedia_link": "https://liquipedia.net/leagueoflegends/EDward_Gaming",
+    "cor_destaque": "#000000",
+    "jogos_principais": ["League of Legends", "Valorant"],
+    "jogadores_notaveis": [
+        {"nome": "Meiko", "conquistas": ["Campeão Mundial de League of Legends (2021)"]},
+        {"nome": "Scout", "conquistas": ["Campeão Mundial e MVP do Mundial de League of Legends (2021)"]},
+        {"nome": "Clearlove", "conquistas": ["Lenda da organização e da LPL"]}
+    ]
+},
+{
+    "nome": "ZETA DIVISION",
+    "descrição": "A ZETA DIVISION é uma organização japonesa que se tornou um fenômeno de popularidade, especialmente no Valorant. Eles foram responsáveis por colocar o Japão no mapa competitivo global do jogo, com uma campanha emocionante no VCT Masters Reykjavík 2022 que uniu o país e criou uma base de fãs extremamente apaixonada e barulhenta, mostrando a força e o potencial da cena japonesa de e-sports.",
+    "link": "https://zetadivision.com/",
+    "logo": "imagens/zeta_division.png",
+    "liquipedia_link": "https://liquipedia.net/valorant/ZETA_DIVISION",
+    "cor_destaque": "#000000",
+    "jogos_principais": ["Valorant", "Brawl Stars", "Street Fighter"],
+    "jogadores_notaveis": [
+        {"nome": "Laz", "conquistas": ["Top 3 no VCT Masters Reykjavík (2022)"]},
+        {"nome": "Dep", "conquistas": ["Top 3 no VCT Masters Reykjavík (2022)"]},
+        {"nome": "tokido", "conquistas": ["Lenda do Street Fighter, campeão do EVO (2017)"]}
+    ]
+},
+{
+    "nome": "Spacestation Gaming",
+    "descrição": "A Spacestation Gaming (SSG) é uma organização norte-americana conhecida por sua forte presença em Rainbow Six Siege, onde conquistaram o cobiçado título mundial do Six Invitational 2020. Com uma marca divertida e focada no espaço, criada pelo YouTuber 'Snipeltown', a SSG construiu uma comunidade sólida e compete em alto nível em diversos jogos, incluindo Rocket League e Apex Legends.",
+    "link": "https://spacestationgaming.com/",
+    "logo": "imagens/spacestation_gaming.png",
+    "liquipedia_link": "https://liquipedia.net/rainbowsix/Spacestation_Gaming",
+    "cor_destaque": "#FFD700",
+    "jogos_principais": ["Rainbow Six", "Rocket League", "Apex Legends"],
+    "jogadores_notaveis": [
+        {"nome": "Canadian", "conquistas": ["2x Campeão Mundial de Rainbow Six (Six Invitational)"]},
+        {"nome": "Arsenal", "conquistas": ["Múltiplos títulos de Major de Rocket League"]},
+        {"nome": "Rampart", "conquistas": ["Campeão Mundial de Rainbow Six (Six Invitational 2020)"]}
+    ]
+},
+{
+    "nome": "Gaimin Gladiators",
+    "descrição": "A Gaimin Gladiators emergiu como uma força dominante no cenário de Dota 2, vencendo cinco grandes torneios consecutivos em 2023 com um estilo de jogo inovador e agressivo. A organização rapidamente se estabeleceu como uma das melhores do mundo, desafiando as equipes mais tradicionais e criando um novo padrão de excelência e domínio no cenário competitivo do jogo.",
+    "link": "https://www.gaimingladiators.com/",
+    "logo": "imagens/gaimin_gladiators.png",
+    "liquipedia_link": "https://liquipedia.net/dota2/Gaimin_Gladiators",
+    "cor_destaque": "#8A2BE2",
+    "jogos_principais": ["Dota 2", "Counter-Strike", "Apex Legends"],
+    "jogadores_notaveis": [
+        {"nome": "Quinn", "conquistas": ["5x Campeão de Major de Dota 2 em um ano (2023)"]},
+        {"nome": "dyrachyo", "conquistas": ["5x Campeão de Major de Dota 2 em um ano (2023)"]},
+        {"nome": "Seleri", "conquistas": ["5x Campeão de Major de Dota 2 em um ano (2023)"]}
+    ]
+}
+]
