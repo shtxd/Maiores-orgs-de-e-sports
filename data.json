@@ -135,7 +135,7 @@
     "cor_destaque": "#FEE100",
     "jogos_principais": ["Counter-Strike", "Rocket League", "League of Legends"],
     "jogadores_notaveis": [
-        {"nome": "ZywOo", "conquistas": ["3x eleito melhor jogador de CS:GO do mundo", "MVP do BLAST.tv Paris Major 2023"]},
+        {"nome": "ZywOo", "conquistas": ["4x eleito melhor jogador de CS:GO do mundo", "MVP do BLAST.tv Paris Major 2023"]},
         {"nome": "apEX", "conquistas": ["Campeão do BLAST.tv Paris Major 2023 (como IGL)"]},
         {"nome": "Kaydop", "conquistas": ["3x Campeão Mundial de Rocket League"]}
     ]
@@ -163,7 +163,7 @@
     "cor_destaque": "#E2012D",
     "jogos_principais": ["League of Legends", "Valorant", "Dota 2"],
     "jogadores_notaveis": [
-        {"nome": "Faker", "conquistas": ["4x Campeão Mundial de League of Legends (2013, 2015, 2016, 2023, 2024, 2025)", "Múltiplos títulos da LCK"]},
+        {"nome": "Faker", "conquistas": ["6x Campeão Mundial de League of Legends (2013, 2015, 2016, 2023, 2024, 2025)", "Múltiplos títulos da LCK"]},
         {"nome": "Gumayusi", "conquistas": ["Campeão Mundial de League of Legends (2023, 2024, 2025)", "MVP WORLDS 2025"]},
         {"nome": "Keria", "conquistas": ["Campeão Mundial de League of Legends (2023, 2024, 2025)", "MVP da LCK (2022)"]}
     ]
@@ -261,7 +261,7 @@
     "cor_destaque": "#B89F5D",
     "jogos_principais": ["League of Legends", "PUBG", "Valorant"],
     "jogadores_notaveis": [
-        {"nome": "Chovy", "conquistas": ["3x Campeão da LCK,2x Campeão do MSI (2024 e 2025)(League of Legends)"]},
+        {"nome": "Chovy", "conquistas": ["5x Campeão da LCK,2x Campeão do MSI (2024 e 2025)(League of Legends)"]},
         {"nome": "Pio", "conquistas": ["Campeão Mundial de PUBG (2019)"]},
         {"nome": "Meteor", "conquistas": ["Campeão do VCT Pacific Kickoff (2024)"]}
     ]
